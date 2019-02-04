@@ -1,0 +1,15 @@
+Produzir hortaliças é um bom negócio?, como_produzir
+Como plantar hortaliças?, como_produzir
+Quanto o produtor gasta para produzir hortaliças?, quanto_custa
+Hortaliças mais relevantes, quais_mais_relevantes
+Qual a situação atual das hortaliças no Brasil?, quais_mais_relevantes
+Como é a cadeia produtiva de hortaliças?, cadeia_produtiva
+Quais os principais gargalos da produção brasileira de hortaliças?, principais_problemas_produzir
+Qual a posição das hortaliças no agronegócio brasileiro?, producao_agronegocio
+Como as hortaliças se posicionam como atividades geradoras de emprego e renda?, geracao_emprego
+Qual o consumo de hortaliças no Brasil?, consumo_da_cultura
+Como é o perfil do consumidor brasileiro de hortaliças?, perfil_consumidor
+Existe diferença regional no consumo de hortaliças?, diferenca_regional
+Existe possibilidade de aumento do consumo de hortaliças?, aumento_consumo
+
+
